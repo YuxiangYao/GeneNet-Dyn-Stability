@@ -1,0 +1,8 @@
+Net_N_emt26network	26	100	0.1543	0.7971
+Net_N_emt72network	72	142	0.7600	0.8049
+Net_N_gastricnetwork	48	215	0.7697	1.1985
+Net_N_sclcnetwork	33	357	0.3797	1.7416
+Net_N_stemcellnetwork	52	123	0.5331	0.8782
+Net_N_yeastbudding	11	34	0.2985	1.1875
+Net_N_yeastfission	9	25	0.0778	0.6641
+Net_N_ArabidopsisFlower	15	42	0.4310	0.7207
